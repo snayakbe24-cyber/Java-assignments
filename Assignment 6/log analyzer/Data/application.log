@@ -1,0 +1,8 @@
+2026-11-24 09:00:02 INFO Application started
+2026-11-24 09:01:15 INFO User signed in
+2026-11-24 09:03:40 WARNING Disk usage reached 80 percent
+2026-11-24 09:05:12 ERROR Unable to open configuration file
+2026-11-24 09:06:30 INFO Retrying configuration load
+2026-11-24 09:07:05 WARNING Response time exceeded 2 seconds
+2026-11-24 09:09:18 ERROR Database connection failed
+2026-11-24 09:10:00 INFO Application shutdown complete

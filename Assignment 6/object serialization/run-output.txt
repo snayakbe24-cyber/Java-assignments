@@ -1,0 +1,6 @@
+Employees written: 3
+Employees read: 3
+ID: 2001 | Name: Anaya Desai | Department: Engineering | Salary: $78,000.00
+ID: 2002 | Name: Kabir Mehta | Department: Human Resources | Salary: $64,500.50
+ID: 2003 | Name: Ishita Rao | Department: Finance | Salary: $71,250.75
+Serialized file: output\employees.ser

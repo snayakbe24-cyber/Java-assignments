@@ -1,0 +1,4 @@
+# Student ID|Name|Program|GPA
+1001|Aarav Shah|Computer Engineering|8.6
+1002|Meera Patel|Information Technology|9.1
+1003|Rohan Singh|Computer Engineering|7.8
